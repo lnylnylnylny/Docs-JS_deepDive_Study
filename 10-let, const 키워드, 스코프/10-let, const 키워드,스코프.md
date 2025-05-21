@@ -1,4 +1,4 @@
-## [JavaScript] 원시 값과 객체의 비교
+## [JavaScript] 
 
 ### JavaScript의 let, const와 블록 레벨 스코프 정리
 
